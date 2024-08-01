@@ -1,60 +1,13 @@
 <!-- ************************************* Logo ********************************************* -->
-<div align="center">
-  <img width="900px" alt="Logo" src="./assets/logo.png">
-</div>
-
-</br>
-
-<!-- ************************************* Título ********************************************* -->
-<h1> React Native com MapView </h1>
+  <img width="500px" alt="Logo" src="https://hermes.dio.me/articles/cover/9771699c-9db6-41fc-830e-01640308091d.png">
 
 <!-- ************************************* Descrição ********************************************* -->
-## Sobre o Projeto
-</br>
+<h2>Sobre o Projeto</h2>
 
-Este projeto consiste em um App de um mapa para apresentar as sete maravilhas do mundo a partir de botões pré-definidos.
-
-</br>
+Projeto simples desenvolvido durante o curso Formação Front-end - HTML, CSS, JavaScript, React e +, apresentado por Matheus Battisti. O objetivo deste projeto foi implementar uma página web informativa sobre o conceito e os benefícios da computação em nuvem.
 
 ## Construído com
 
-* [NodeJS](https://nodejs.org/en/) - Ambiente de execução Javascript
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de Marcação de Hipertexto
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Folhas de Estilo em Cascata
 * [Vs Code](https://code.visualstudio.com/) - IDE
-* [React Native](https://reactnative.dev/) - O framework Mobile usado
-* [Expo](https://expo.io/) - Facilitador de visualização
-* [MapView](https://docs.expo.dev/versions/latest/sdk/map-view/) - Mapa
-
-</br>
-
-<!-- ************************************* Rodar Projeto ********************************************* -->
-## Rodando o projeto
-
-- É Necessário : 
-    - Ter o Expo Instalado no PC
-    - Ter o Expo Instalado no Celular
-    
-```bash
-# Clone este repositório
-$ git clone https://github.com/victorfonsecabarboza/react_native_app_lanchonete.git
-
-# Acesse a pasta do Projeto
-$ cd MapaSeteMaravilhas
-
-# Baixar as dependências
-$ npm install
-ou
-$ yarn install
-
-# Instalar o MapView
-$ npx expo install react-native-maps
-
-# Instalar elementos
-$ npm install react-native-elements
-ou
-$ yarn add react-native-elements
-
-# Iniciar o App
-$ npm start
-ou
-$ yarn start
-```
