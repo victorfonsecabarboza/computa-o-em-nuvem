@@ -1,0 +1,79 @@
+body {
+    font-family: Roboto;
+    background-color: #051b29;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: white;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+/* Imagem de destaque */
+.featured-image {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Biografia */
+.biography-container {
+    padding: 10px 0;
+    margin: 30px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Citação */
+.quotes-container {
+    background-color: #051b29;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+}
+
+.quotes-container p {
+    font-style: italic;
+    font-size: 15px;
+}
+
+/* Benefícios */
+.benefits-container {
+    padding: 10px 0;
+    margin: 30px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.benefits-container li {
+    height: 30px;
+}
+
+/* Mais informações */
+.moreinfo-container a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
