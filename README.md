@@ -1,5 +1,9 @@
 <!-- ************************************* Logo ********************************************* -->
-  <img width="500px" alt="Logo" src="https://hermes.dio.me/articles/cover/9771699c-9db6-41fc-830e-01640308091d.png">
+<p align="center">
+  <img width="500px" alt="Logo" src="https://html5css3.com.br/img/logo.png">
+</p>
+
+
 
 <!-- ************************************* Descrição ********************************************* -->
 <h2>Sobre o Projeto</h2>
